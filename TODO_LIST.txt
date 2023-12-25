@@ -1,0 +1,19 @@
+Melhorar visualmente as respostas. *Ongoing
+Adicionar "Helper Vars" para descrições de comandos. *Ongoing
+Implementar api do lastfm.
+Implementar "playnext" *Ongoing
+
+TESTAR OS COMANDOS DE MUSICA:
+clear - SUCCESS
+disconnect - SUCCESS
+download - SUCCESS
+loop - SUCCESS
+move - SUCCESS
+now_playing - SUCCESS
+pause - SUCCESS
+play - SUCCESS
+playnext - TESTING
+queue - SUCCESS
+remove - SUCCESS
+skip - SUCCESS
+stop - SUCCESS
